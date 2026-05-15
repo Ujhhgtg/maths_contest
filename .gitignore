@@ -1,0 +1,37 @@
+## LaTeX generated artifacts
+*.aux
+*.log
+*.out
+*.pdf
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.dvi
+*.ps
+*.idx
+*.ind
+*.ilg
+*.glo
+*.gls
+*.glg
+*.ist
+*.maf
+*.mtc
+*.mtc0
+*.nav
+*.snm
+*.vrb
+*.xdv
+*_minted-*
+
+## Python
+__pycache__/
+*.pyc
+*.pyo
